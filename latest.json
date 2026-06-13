@@ -1,8 +1,7 @@
 {
-  "versionCode": 20904,
-  "versionName": "2.9.4",
+  "versionCode": 20905,
+  "versionName": "2.9.5",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "إصلاح إشعارات الأدوية + بطاقة IAD + فاحص تحديثات + رمز QR للمشاركة",
-  "sha256": "11f5cd8d0f03b683bf88173c256410854514ba8c79033718ff71d3815d3291a5",
-  "publishedAt": "2026-06-13"
+  "notes": "إصلاح استيراد .db + تحسين الاستعراض",
+  "sha256": "63a015766bcef43a9c6c1743456f5eaa913fcb071cd8f157e4d8d308cf7c31b0"
 }
