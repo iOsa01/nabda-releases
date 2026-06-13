@@ -1,7 +1,7 @@
 {
-  "versionCode": 20905,
-  "versionName": "2.9.5",
+  "versionCode": 20906,
+  "versionName": "2.9.6",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "إصلاح استيراد .db + تحسين الاستعراض",
-  "sha256": "63a015766bcef43a9c6c1743456f5eaa913fcb071cd8f157e4d8d308cf7c31b0"
+  "notes": "WAL fix + Drive search + unified UI",
+  "sha256": "03ceb90bca5c566b33d0317df3e95ad9877a5d5c6cb8dd0342592dfb1a409675"
 }
