@@ -1,7 +1,7 @@
 {
-  "versionCode": 20907,
-  "versionName": "2.9.7",
+  "versionCode": 20908,
+  "versionName": "2.9.8",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "إصلاح النسخ الاحتياطي على Google Drive: فصل الرفع عن النسخ المحلي، حفظ النسخ في مجلد التطبيق الخاص، وإصلاح انهيار قائمة الاستعادة.",
-  "sha256": "32113734154fe3d24afaa1043c7e41700414282ad0cf4378dd3734e165f27f9b"
+  "notes": "تذكير بالتحديثات داخل التطبيق عند فتحه + تحسينات على الاستقرار والنسخ الاحتياطي.",
+  "sha256": "81175b73cee388beb3019a5b1c47c740af13a3fb4f9b7e4009ec998a8c390870"
 }
