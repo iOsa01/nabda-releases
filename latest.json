@@ -1,7 +1,7 @@
 {
-  "versionCode": 20908,
-  "versionName": "2.9.8",
+  "versionCode": 20909,
+  "versionName": "2.9.9",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "تذكير بالتحديثات داخل التطبيق عند فتحه + تحسينات على الاستقرار والنسخ الاحتياطي.",
-  "sha256": "81175b73cee388beb3019a5b1c47c740af13a3fb4f9b7e4009ec998a8c390870"
+  "notes": "نسخة احتياطية إجبارية قبل مسح البيانات (لا تُحذف نسخك) + إخلاء مسؤولية طبي + تحسين إدخال تاريخ الميلاد.",
+  "sha256": "c31caaac405b23a2ea29cf17d72312aa27e78147511846a46e56d83dd5872977"
 }
