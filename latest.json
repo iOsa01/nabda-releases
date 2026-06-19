@@ -1,7 +1,7 @@
 {
-  "versionCode": 20909,
-  "versionName": "2.9.9",
+  "versionCode": 21000,
+  "versionName": "2.10.0",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "نسخة احتياطية إجبارية قبل مسح البيانات (لا تُحذف نسخك) + إخلاء مسؤولية طبي + تحسين إدخال تاريخ الميلاد.",
-  "sha256": "c31caaac405b23a2ea29cf17d72312aa27e78147511846a46e56d83dd5872977"
+  "notes": "إصلاح النسخ الاحتياطي والاستعادة (كانت النسخ تأتي فارغة) + فتح التطبيق عند الضغط على الإشعارات + المصحف يحترم العدّ المطلوب + تصحيح خطأ إملائي في أذكار المساء",
+  "sha256": "7b0f2bbcabf1807552ac8fc3f6434c419db57a056e127cce11f773fb5abfdc1e"
 }
