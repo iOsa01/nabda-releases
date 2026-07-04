@@ -1,7 +1,7 @@
 {
-  "versionCode": 21101,
-  "versionName": "2.11.1",
+  "versionCode": 21200,
+  "versionName": "2.12.0",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "إضافة التقويم الدراسي 1448 (التقويم العام + المنطقة الغربية) مع تمييز لوني وتفعيل/إيقاف من الإعدادات + تطوير جدول اليوم للأدوية",
-  "sha256": "362a216af75224b5595df9becdddbe1ac0adfb5cf78882f09ceebc0f3114d7b2"
+  "notes": "مُجدوِل إشعارات أصلي (Kotlin) + خدمة أمامية لموثوقية أعلى على أجهزة البطارية العدوانية · ودجت مواقيت الصلاة 4×2 (سماء حيّة/أسود فخم، عدّاد حيّ أذان↔إقامة، الطقس والرياح، الجرعة والموعد القادمين)",
+  "sha256": "ff0898f2978d8adf308011e032bc2b4bbe1c5d0b04fe0789cd2cc14bccb3d13b"
 }
