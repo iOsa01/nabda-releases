@@ -1,7 +1,7 @@
 {
-  "versionCode": 21203,
-  "versionName": "2.12.3",
+  "versionCode": 21204,
+  "versionName": "2.12.4",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "تحسينات الواجهة والودجت: صور أيام بخط الثلث في Dashboard والودجت، إزالة الساعة العدّادة، تنسيق العد التنازلي MM:SS عندما يكون أقل من ساعة، إعادة هندسة الودجت بأقواس جانبية متناظرة.",
-  "sha256": "d1afccb7df61ec38283c3602d47c5b545141d9f3aa56d4edec7ecdceba4d2dfe"
+  "notes": "تفعيل إشعارات الأذان والأذكار افتراضيًا عند أول تثبيت",
+  "sha256": "e2744546b8c380fbfc096f910243507a2b419daee9d74af6a0d7d41f112a5dd5"
 }
