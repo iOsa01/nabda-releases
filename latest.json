@@ -1,7 +1,7 @@
 {
-  "versionCode": 21202,
-  "versionName": "2.12.2",
+  "versionCode": 21203,
+  "versionName": "2.12.3",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "تحسينات i18n واسعة لواجهة Compose، بطاقة HbA1c بنطاق 7/14/30/90/مخصص، وإصلاحات التقويم والأدوية والنسخ مع الحفاظ على بيانات المستخدم",
-  "sha256": "a0dbe80658468a3438453543c06f7a219ad598ce5f0160bda2bdca3cc2dd9fbb"
+  "notes": "تحسينات الواجهة والودجت: صور أيام بخط الثلث في Dashboard والودجت، إزالة الساعة العدّادة، تنسيق العد التنازلي MM:SS عندما يكون أقل من ساعة، إعادة هندسة الودجت بأقواس جانبية متناظرة.",
+  "sha256": "d1afccb7df61ec38283c3602d47c5b545141d9f3aa56d4edec7ecdceba4d2dfe"
 }
