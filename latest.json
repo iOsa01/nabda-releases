@@ -1,7 +1,7 @@
 {
-  "versionCode": 21204,
-  "versionName": "2.12.4",
+  "versionCode": 21205,
+  "versionName": "2.12.5",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "تفعيل إشعارات الأذان والأذكار افتراضيًا عند أول تثبيت",
-  "sha256": "e2744546b8c380fbfc096f910243507a2b419daee9d74af6a0d7d41f112a5dd5"
+  "notes": "منبه الاستيقاظ الملح، مفكرة النوم، تحسين موثوقية الإشعارات بعد إعادة التشغيل، وتصحيح طقس وأقواس الودجت",
+  "sha256": "0594d0ed52e101bce4ce7562ca57f5049cf43ce10d49dac605dbbbc333a3cc06"
 }
