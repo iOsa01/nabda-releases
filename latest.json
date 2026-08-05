@@ -1,7 +1,7 @@
 {
-  "versionCode": 30201,
-  "versionName": "3.2.1",
+  "versionCode": 30300,
+  "versionName": "3.3.0",
   "url": "https://github.com/iOsa01/nabda-releases/releases/latest/download/nabda-latest.apk",
-  "notes": "إصلاح كراش تحدي المنبه + تحسين توقيت فحص اليقظة + إعادة معايرة شدة الإشعارات + أيقونة جديدة",
-  "sha256": "7effbcf73c6f189c0ef917ab31e8367a2eb146199a82a5eff7b7c5b9ef297b47"
+  "notes": "استعادة تلقائية لأدوية الأرشفة بالمدة + شارة/إشعار عودتها، إصلاح تكرار تعبئة المخزون مع حركة تأكيد، تبويبا القياسات/التقارير، إصلاح زر الإضافة المكرر في التقويم",
+  "sha256": "9a7762f902f1b9a738e50e84a20701ea090d0508d75e0ca495d7ce447346286e"
 }
